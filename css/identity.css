@@ -8614,3 +8614,6 @@ html {
     z-index: -1; }
   .backdrop.card {
     z-index: initial; }
+
+.logo-topbar {
+  width: 6em; }
